@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T17:25:57Z",
+  "generated_at": "2026-11-03T21:20:46Z",
   "source_repo": "ryan-specter/koensayr-auto",
   "mirror_repo": "y1-community/koensayr-auto-mirror",
   "title_prefix": "Portable Flashing Package: ",
@@ -57,7 +57,7 @@
           "source_asset": "rom.zip",
           "platform": "windows",
           "size": 496222105,
-          "sha256": "47a9daba33d576f7a5bd2f83d4a7e63211bece054e5293cfeb7f9d4ff4be694a",
+          "sha256": "53138da91b9cb53a43f454a5a04a492519c6b27689a9efb43bb201d40af45a9d",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.2/rom-windows.zip"
         },
         {
@@ -65,7 +65,7 @@
           "source_asset": "rom.zip",
           "platform": "linux",
           "size": 647532824,
-          "sha256": "f81d4b0e873e489af163b825ba28cc31319fbbc59a525dc1d3826636d40a472d",
+          "sha256": "337e63740e12fecc25f3ea4413b166f86fbf60433529f7478f2e396aba018752",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.2/rom-linux.zip"
         },
         {
@@ -73,7 +73,7 @@
           "source_asset": "rom.zip",
           "platform": "macos",
           "size": 446645601,
-          "sha256": "3563fa8f88ae8b23cbc577286842dd272ca43a7874ba0e3532466d3e3cbdf18d",
+          "sha256": "81d0569a1c089153ef3c22d6e21cc9bb573a9e7f3b829d1becdc22f1c12425fb",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.2/rom-macos.zip"
         }
       ],
@@ -97,7 +97,7 @@
           "source_asset": "rom.zip",
           "platform": "windows",
           "size": 476278873,
-          "sha256": "7d351a429f1709f95995134c146fd3067394b0631679a812159e9769483f5d29",
+          "sha256": "6b2060ab7d02d60d97b93d34535ca1f860d411340ff662a1ca2a6bdf62200a2b",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.7/rom-windows.zip"
         },
         {
@@ -105,7 +105,7 @@
           "source_asset": "rom.zip",
           "platform": "linux",
           "size": 627589592,
-          "sha256": "e102fd99ebb8dc4ded88df90b0bef92bc8d658e15748262b5cd1e55e987acdb3",
+          "sha256": "cf529e361cfcc7690295b2f8615c8fa45afe933153acb138c10f3b8bccfe39c6",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.7/rom-linux.zip"
         },
         {
@@ -113,7 +113,7 @@
           "source_asset": "rom.zip",
           "platform": "macos",
           "size": 426702371,
-          "sha256": "a4f7ada755a7ae0dc3381f68fa7dd6f2a68a0c5b280a71da28000b5c54525102",
+          "sha256": "a2fccd5c0af0e55b524aaf567969f336149348a36dbac9e3f91bc26ffeec09ad",
           "url": "https://github.com/y1-community/koensayr-auto-mirror/releases/download/2.4.0-koensayr-3.0.7/rom-macos.zip"
         }
       ],
